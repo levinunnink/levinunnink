@@ -1,4 +1,4 @@
-# Hello there. I’m Levi Nunnink. 👋
+# Hello there 👋
 
 <img align="right" src="https://files.nunn.ink/68hDk5.png" alt="Levi Nunnink" width="300" />
 
